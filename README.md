@@ -1,7 +1,9 @@
 ### olá sou Keven Barros  👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React.js
+- :palm_tree: JavaScript 
+- 🌱 React.js
+-  :four_leaf_clover: Vue.js
 - 📫 Contate-me no email: kevenwilliamsilvabarros@gmail.com
 <div align="center">
   <a href="https://github.com/kevenbarros">
